@@ -1,0 +1,16 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+node_modules/
+frontend/dist/
+backend/staticfiles/
+outputs/*
+!outputs/.gitkeep
+data/postgres/
+*.log
+.DS_Store
+

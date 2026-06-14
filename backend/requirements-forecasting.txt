@@ -1,0 +1,9 @@
+# Use Python 3.12 for baseline notebook retraining.
+-r requirements.txt
+numpy==2.2.6
+pandas==2.2.3
+scikit-learn==1.7.0
+xgboost==3.0.2
+lightgbm==4.6.0
+matplotlib==3.10.3
+pyarrow==20.0.0
